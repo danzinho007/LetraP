@@ -1,0 +1,153 @@
+19:37
+19:40
+20:43
+
+Aston Martin
+DB7 = 15m
+DB7 Volante = 16 M
+
+Chrysler
+Dodge Viper RT = 7m
+... ... GTS = 8m
+Concept Car = Não
+
+TVR
+Cerebera = 8,5m
+Griffith 500 = 8,3m
+... Blackpool = 8m
+
+Mitsubishi
+
+Nome Japa = 1,8m
+FTO GR = 1,9m
+Nome Japa = 2m
+FTO GP = 2,2m
+... GPX = 2,4m
+-92 Mirage = 875k
+FF - 175ps - 17 kgm/7k rpm
+-GTO 92 = 886k
+4WD - 225ps - 28 kgm/4,5k rpm
+
+*Toyota*
+
+-Supra 3.0 GT = 725k
+FR - 240ps - 35 kgm/3,2k rpm
+-Levin 1600 GT = 780k
+FR - 130ps - 15 kgm/5,2k rpm
+-Trueno FT = 790k
+FR - 130ps - 15 kgm/5,2k rpm
+-Supra 3.0 GT = 674k
+FR - 240ps - 35 kgm/3,2k rpm
+
+Estava entre o GTO 92 ( 4WD - 225ps - 28 kgm/4,5k rpm ) de 886k e esse Supra , acabei escolhendo ele
+
+*Mazda*
+
+-Savanna RX-7 = 930k
+FR - 205ps - 
+-89 Eunos Roadster = 965k
+FR - 120ps -
+
+*Nissan*
+
+-88 Silvia = 426k
+FR - 135ps
+-91 Silvia = 736k
+FR - 140ps
+-90 Primera = 66k
+FF - 150ps
+-Skyline FTS 25 = 984k
+FR - 190ps - 
+
+*Honda*
+
+-92 del Solvxi = 858k
+FF - 130ps -
+-92 del Solsir = 722k
+FF - 170ps -
+-91 Prelude = 984k
+FF - 200ps - 22 kgm/ 5,5 rpm
+
+Length
+Widht
+Height
+Tred.F
+Tred.R
+Wheelbase
+Mass
+Output
+Torque
+Sus.Str.F
+Sus.Str.R
+Tire.F
+Tire.R
+Displacement
+Engine Type
+Aspiration
+
+comprimento
+Largura
+Altura
+Tred.F
+Tred.R
+Distância entre eixos
+Massa
+Resultado
+Torque
+Sus.Str.F
+Sus.Str.R
+Tire.F
+Tire.R
+Deslocamento
+Tipo de motor
+Aspiração
+
+MA70 Supra GT Turbo Limited       FR  5 230   585   3417  2903  2460   Fair
+
+*Suspension* = Suspensão
+Spring Rate = Taxa de Mola
+Ride Height = Altura da suspensão
+Damper = Amortecedor
+Camber = Cambagem
+Stabilizer = Estabilizador
+Brake = Freio
+
+*Engine* = Moto
+Turbo Boost = Turbo Grau
+Gear Ratio = Relação de engrenagem
+
+Vm = 5.600 rpm
+Te = 3,7 
+
+5.600 = 3,7
+x     = 
+x = 1.513
+
+1.513,5 x 16
+24.216 x 2
+48.432 x 3,14
+152.076,5 / 1056
+144 km/h
+
+4500 = 5,25 
+x    = 
+x = 857
+
+*Aero Dynamics* = Aerodinâmica
+Down Force = Força descendente
+
+
+Recordes de Gran Turismo 1 e 2
+
+http://www.lecoyote.net/gtweboldbc/gt1recor.htm
+
+Todos os carros
+
+https://gtracemods.weebly.com/gran-turismo.html
+
+Carros secretos
+
+https://www.gtplanet.net/forum/threads/gran-turismo-1-secret-cars.383735/
+
+Começo 17:30
+
